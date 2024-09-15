@@ -8,7 +8,7 @@ params:
   ShowCodeCopyButtons: true
   ShowReadingTime: true
   homeInfoParams:
-    Title: About me
+    Title: Intro
     Content: |
       Hi, I'm Ilya and I do security engineering and automation, threat
       analysis and research.
