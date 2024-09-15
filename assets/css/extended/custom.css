@@ -1,0 +1,12 @@
+code {
+  text-wrap: wrap;
+}
+
+:root {
+    --theme: #fff;
+    --primary: rgba(0, 0, 180, 0.88);
+}
+
+.dark {
+    --primary: rgba(191, 225, 255, 0.96);
+}

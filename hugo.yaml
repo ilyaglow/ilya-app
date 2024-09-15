@@ -1,0 +1,36 @@
+baseURL: https://ilya.app/
+languageCode: en-us
+title: Ilya Milov
+theme:
+  - PaperMod
+params:
+  subtitle: Security Engineering
+  ShowCodeCopyButtons: true
+  ShowReadingTime: true
+  homeInfoParams:
+    Title: About me
+    Content: |
+      Hi, I'm Ilya and I do security engineering and automation, threat
+      analysis and research.
+
+      I'm an occasional [open source](https://github.com/ilyaglow) contributor.
+
+      You can reach me by [email](mailto:contact+web@ilya.app),
+      here is my [PGP key](/pgp-keys).
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ilyaglow"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ilyamilov/"
+    - name: x
+      url: "https://x.com/ilyaglow/"
+
+languages:
+  en:
+    menu:
+      main:
+        - name: References
+          url: /me
+        - name: Tags
+          url: /tags
