@@ -23,8 +23,6 @@ params:
       url: "https://github.com/ilyaglow"
     - name: linkedin
       url: "https://www.linkedin.com/in/ilyamilov/"
-    - name: x
-      url: "https://x.com/ilyaglow/"
 
 languages:
   en:
